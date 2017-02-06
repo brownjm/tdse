@@ -1,2 +1,2 @@
 # tdse
-Simple simulation using the Time-Dependent Schrödinger Equation
+Simple simulation to play with the Time-Dependent Schrödinger Equation
